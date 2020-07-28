@@ -4,7 +4,7 @@ typedef struct
 	int x;
 	int y;
 } peef;
-
+///////
 int main()
 {
 	peef pe = {5, 4};
